@@ -25,3 +25,6 @@ replay_pid*
 
 # Idea Configs
 .idea/
+
+# Idea Output Directory
+out/
